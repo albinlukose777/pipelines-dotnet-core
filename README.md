@@ -41,3 +41,4 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+[![Build Status](https://albinlukose777.visualstudio.com/FirstAzureKnappu/_apis/build/status/albinlukose777.pipelines-dotnet-core)](https://albinlukose777.visualstudio.com/FirstAzureKnappu/_build/latest?definitionId=5)
